@@ -149,12 +149,12 @@ public class GiaoDien1 extends JFrame implements ActionListener, MouseListener{
 		pMain.add(pCenter, BorderLayout.CENTER);
 		pMain.add(pSouth, BorderLayout.SOUTH);
 		
-		btnTim.addActionListener(this);
-		btnThem.addActionListener(this);
-		btnLamMoi.addActionListener(this);
-		btnXoa.addActionListener(this);
-		btnLuu.addActionListener(this);
-		tableVeXe.addMouseListener(this);
+//		btnTim.addActionListener(this);
+//		btnThem.addActionListener(this);
+//		btnLamMoi.addActionListener(this);
+//		btnXoa.addActionListener(this);
+//		btnLuu.addActionListener(this);
+//		tableVeXe.addMouseListener(this);
 	}
 	
 	public static void main(String[] args) {
